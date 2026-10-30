@@ -1,0 +1,9 @@
+store_id,store_name,city,state,store_type,opening_date
+STR001,Ikeja Central,Ikeja,Lagos,Flagship,2021-03-15
+STR002,Lekki Phase One,Lekki,Lagos,Mall,2022-07-01
+STR003,Yaba Market ,Lagos,Lagos,High Street,2020-11-10
+STR004,Ibadan Ring Road,Ibadan,Oyo,High Street,2021-09-20
+STR005,Abuja Garki,Abuja,FCT,Mall,2022-02-05
+STR006,Port Harcourt Central,Port Harcourt,Rivers,High Street,2023-01-12
+STR007,Benin City Hub,Benin City,Edo,High Street,2023-06-18
+STR008,Kano City Centre,Kano,Kano,Mall,2022-10-30

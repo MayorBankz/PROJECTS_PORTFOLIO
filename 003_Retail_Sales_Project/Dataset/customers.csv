@@ -1,0 +1,241 @@
+customer_id,customer_name,customer_type,city,state,signup_date,preferred_channel
+C0001,Kemi Adebayo,Wholesale,Ilorin,Kwara,2025-05-06,In-store
+C0002,Emeka Okonkwo,Retail,Abuja,FCT,2025-05-23,Phone
+C0003,Zainab Udo,Retail,Lagos,Lagos,2025-11-15,Sales Rep
+C0004,Samuel James,Online,Port Harcourt,Rivers,2023-10-26,Sales Rep
+C0005,Seyi Ogunleye,Corporate,Enugu,Enugu,2026-05-06,Online
+C0006,Yusuf Balogun,Retail,Port Harcourt,Rivers,2023-02-05,Online
+C0007,Samuel Sule,Retail,Benin City,Edo,2025-08-14,In-store
+C0008,Chinedu Eze,Retail,Lagos,Lagos,2025-03-01,Online
+C0009,Chinedu Lawal,Retail,Abeokuta,Ogun,2023-05-09,Phone
+C0010,Hauwa Udo,Online,Ilorin,Kwara,2023-12-18,Sales Rep
+C0011,Femi James,Retail,Abuja,FCT,2024-09-05,Sales Rep
+C0012,Bola Eze,Corporate,Ibadan,Oyo,2023-07-12,Phone
+C0013,Tobi Yusuf,Retail,Ikeja,Lagos,2026-05-20,Sales Rep
+C0014,Amina Balogun,Retail,Ikeja,Lagos,2025-07-12,Phone
+C0015,Hauwa Nwosu,Online,Kano,Kano,2026-03-13,In-store
+C0016,Zainab Udo,Wholesale,Ikeja,Lagos,2024-09-12,Online
+C0017,Maryam Sule,Online,Abeokuta,Ogun,2025-07-07,Phone
+C0018,Damilola Nwosu,Corporate,,Enugu,2024-12-25,Online
+C0019,Emeka Yusuf,Online,Ikeja,Lagos,2025-07-10,Sales Rep
+C0020,Bola Okafor,Wholesale,Kano,Kano,2024-01-21,In-store
+C0021,Maryam Sule,Retail,Port Harcourt,Rivers,2025-05-30,Sales Rep
+C0022,Femi Oladipo,Online,Lekki,Lagos,2024-09-28,In-store
+C0023,Tobi Okafor,Wholesale,Kano,Kano,2023-04-28,In-store
+C0024,Kunle Onyeka,Online,Port Harcourt,Rivers,2023-12-12,Sales Rep
+C0025,Ngozi Sule,Corporate,Lagos,Lagos,2024-06-24,Phone
+C0026,Maryam Ibrahim,Retail,Abuja,FCT,2024-05-08,In-store
+C0027,Hauwa Ibrahim,Online,Abuja,FCT,2024-10-03,Online
+C0028,Kemi Ibrahim,Online,Ikeja,Lagos,2025-04-01,Sales Rep
+C0029,Amina Lawal,Wholesale,Benin City,Edo,2024-10-12,In-store
+C0030,Grace Okonkwo,Online,Lagos,Lagos,2023-02-12,Online
+C0031,Amina Bello,Retail,Ilorin,Kwara,2026-06-09,In-store
+C0032,Femi Obi,Retail,Port Harcourt,Rivers,2026-02-08,Phone
+C0033,Daniel Ogunleye,Retail,Uyo,Akwa Ibom,2024-09-25,In-store
+C0034,Amaka Mohammed,Corporate,Enugu,Enugu,2025-08-24,Phone
+C0035,Amaka Bello,Retail,Kano,Kano,2023-10-14,Sales Rep
+C0036,Kemi Yusuf,Retail,Abuja,FCT,2026-01-23,Phone
+C0037,Ngozi Ojo,Retail,Lagos,Lagos,2023-12-02,Online
+C0038,Femi Oladipo,Retail,Lekki,Lagos,2024-06-11,In-store
+C0039,Kemi Oladipo,Retail,Port Harcourt,Rivers,2025-10-18,Sales Rep
+C0040,Kunle Okafor,Wholesale,Abuja,FCT,2026-02-26,Phone
+C0041,David Adeyemi,Wholesale,Abeokuta,Ogun,2024-06-25,In-store
+C0042,Zainab James,Retail,Port Harcourt,Rivers,2026-03-22,In-store
+C0043,Ifeoma Ojo,Wholesale,Kano,Kano,2024-07-21,Phone
+C0044,Yusuf Oladipo,Online,Abuja,FCT,2025-08-16,Sales Rep
+C0045,Samuel Sule,Wholesale,Ikeja,Lagos,2024-07-11,Online
+C0046,Ada Udo,Retail,Port Harcourt,Rivers,2026-06-23,Sales Rep
+C0047,Seyi Okafor,Online,Abeokuta,Ogun,2025-10-05,Online
+C0048,Ngozi Eze,Retail,Abuja,FCT,2024-06-20,Online
+C0049,Daniel Eze,retail ,Kano,Kano,2025-01-11,Sales Rep
+C0050,Chika Adebayo,Retail,Lekki,Lagos,2024-02-28,Phone
+C0051,Maryam Okonkwo,Retail,Lekki,Lagos,2024-10-01,Online
+C0052,Seyi Bello,Retail,Ibadan,Oyo,2024-04-11,Sales Rep
+C0053,Hauwa Mohammed,Wholesale,Ilorin,Kwara,2023-03-15,Online
+C0054,Grace Okafor,Online,Benin City,Edo,2023-12-18,Online
+C0055,Amina Mohammed,Online,Ikeja,Lagos,2024-10-08,Sales Rep
+C0056,David Obi,Retail,Port Harcourt,Rivers,2024-10-14,Online
+C0057,Ada Adebayo,Corporate,Ikeja,Lagos,2025-10-01,Online
+C0058,Bola Akinyemi,Wholesale,Lekki,Lagos,2026-03-05,In-store
+C0059,Kemi Nwosu,Wholesale,Lagos,Lagos,2023-12-16,Online
+C0060,Ifeoma Nwosu,Retail,Kano,Kano,2023-03-06,In-store
+C0061,Femi Oladipo,Retail,Ikeja,Lagos,2024-12-01,Sales Rep
+C0062,Kemi Lawal,Retail,Benin City,Edo,2024-02-08,In-store
+C0063,Femi Abubakar,Retail,Abeokuta,Ogun,2024-05-09,Sales Rep
+C0064,Emeka Okonkwo,Corporate,Lagos,Lagos,2025-04-02,Online
+C0065,Emeka Ojo,Online,Kano,Kano,2026-07-09,Sales Rep
+C0066,Ifeoma Obi,Wholesale,Enugu,Enugu,2025-07-30,Phone
+C0067,David Balogun,Retail,Uyo,Akwa Ibom,2024-05-19,Sales Rep
+C0068,Amaka Adebayo,Online,Port Harcourt,Rivers,2023-09-21,Sales Rep
+C0069,Hauwa Lawal,Online,Abuja,FCT,2024-03-04,Sales Rep
+C0070,Tunde Onyeka,Wholesale,Kano,Kano,2025-09-27,In-store
+C0071,Maryam Okafor,Corporate,Lagos,Lagos,2025-02-10,Sales Rep
+C0072,Daniel Akinyemi,Retail,Abuja,FCT,2026-04-23,Sales Rep
+C0073,Yusuf Yusuf,Retail,Enugu,Enugu,2025-10-15,In-store
+C0074,Samuel James,Online,Port Harcourt,Rivers,2024-03-07,Online
+C0075,Femi Onyeka,Retail,Ikeja,Lagos,2025-06-30,Phone
+C0076,Bola Oladipo,Retail,Abeokuta,Ogun,2024-05-13,Phone
+C0077,Emeka Ogunleye,Retail,Ilorin,Kwara,2024-09-16,Phone
+C0078,Bola Onyeka,Retail,Ilorin,Kwara,2026-04-15,Sales Rep
+C0079,Kunle Balogun,Retail,Enugu,Enugu,2024-09-30,In-store
+C0080,Maryam Onyeka,Retail,Enugu,Enugu,2025-09-15,In-store
+C0081,Amaka Sule,Retail,Abuja,FCT,2025-11-01,In-store
+C0082,Femi Adebayo,Wholesale,Ibadan,Oyo,2024-10-30,Phone
+C0083,Amina Udo,Retail,Lagos,Lagos,2023-08-27,Sales Rep
+C0084,Hauwa Ojo,Retail,Ikeja,Lagos,2025-06-23,Online
+C0085,Tunde Akinyemi,Retail,Ikeja,Lagos,2024-04-18,Phone
+C0086,Ada Ibrahim,Wholesale,Lekki,Lagos,2024-02-09,Phone
+C0087,Emeka Abubakar,Online,Port Harcourt,Rivers,2024-05-18,Sales Rep
+C0088,Tunde Abubakar,Retail,Lekki,Lagos,2023-01-23,In-store
+C0089,Ngozi Okonkwo,Retail,Port Harcourt,Rivers,2026-02-03,Sales Rep
+C0090,Hauwa Balogun,Wholesale,Ikeja,Lagos,2026-07-12,Phone
+C0091,Yusuf Eze,Online,Abeokuta,Ogun,2023-12-13,Sales Rep
+C0092,David Okafor,Retail,Abeokuta,Ogun,2023-09-26,Phone
+C0093,Amaka Ogunleye,Wholesale,Uyo,Akwa Ibom,2025-04-13,Online
+C0094,Amaka Oladipo,Retail,Ilorin,Kwara,2024-09-25,Online
+C0095,Amaka Ibrahim,Retail,Enugu,Enugu,2025-02-15,Sales Rep
+C0096,Yusuf Oladipo,Retail,Abeokuta,Ogun,2023-05-18,In-store
+C0097,Grace Mohammed,Retail,Lekki,Lagos,2025-01-15,In-store
+C0098,Kunle Lawal,Retail,Ibadan,Oyo,2024-06-20,In-store
+C0099,Tobi Eze,Retail,Lekki,Lagos,2023-01-06,In-store
+C0100,Amina Oladipo,Wholesale,Benin City,Edo,2024-12-08,Online
+C0101,Hauwa Adeyemi,Online,Abeokuta,Ogun,2023-08-29,Online
+C0102,Zainab Lawal,Retail,Lekki,Lagos,2024-07-31,Phone
+C0103,Amaka Ojo,Retail,Lekki,Lagos,2024-09-11,Phone
+C0104,Yusuf Lawal,Corporate,Enugu,Enugu,2026-01-11,In-store
+C0105,Emeka Lawal,Retail,Ilorin,Kwara,2026-05-14,In-store
+C0106,Samuel Okafor,Retail,Kano,Kano,2026-04-11,Sales Rep
+C0107,Maryam Ibrahim,Retail,Ilorin,Kwara,2023-06-03,Online
+C0108,Grace Obi,Wholesale,Benin City,Edo,2024-06-24,In-store
+C0109,Yusuf Ojo,Online,Ilorin,Kwara,2025-07-14,In-store
+C0110,Seyi Balogun,Retail,Benin City,Edo,2025-09-13,In-store
+C0111,Hauwa Abubakar,Wholesale,Abeokuta,Ogun,2023-05-21,Online
+C0112,Samuel Sule,Online,Benin City,Edo,2025-08-13,Sales Rep
+C0113,Maryam Adeyemi,Corporate,Benin City,Edo,2025-08-07,Sales Rep
+C0114,Chika Ibrahim,Retail,Kano,Kano,2023-12-10,Phone
+C0115,Kemi Ibrahim,Wholesale,Ikeja,Lagos,2024-01-15,Sales Rep
+C0116,Femi Adebayo,Retail,Ikeja,Lagos,2024-12-30,Sales Rep
+C0117,Emeka Abubakar,Retail,Lagos,Lagos,2023-01-04,In-store
+C0118,Tobi Ogunleye,Online,Ilorin,Kwara,2025-07-04,Phone
+C0119,Ada Mohammed,Corporate,Uyo,Akwa Ibom,2025-02-28,Phone
+C0120,Damilola Lawal,Wholesale,Abuja,FCT,2026-04-01,Sales Rep
+C0121,Maryam Ibrahim,Online,Kano,Kano,2024-12-29,Online
+C0122,Ifeoma Adebayo,Retail,Ikeja,Lagos,2025-10-15,Sales Rep
+C0123,Emeka Okafor,Retail,Uyo,Akwa Ibom,2024-03-15,In-store
+C0124,Daniel Lawal,Retail,Lekki,Lagos,2025-09-05,In-store
+C0125,Amina Lawal,Retail,Ilorin,Kwara,2024-04-25,Online
+C0126,Samuel Nwosu,Retail,Port Harcourt,Rivers,2026-07-04,Sales Rep
+C0127,Seyi Okonkwo,Retail,Port Harcourt,Rivers,2023-08-13,Online
+C0128,Ngozi Bello,Wholesale,Lagos,Lagos,2024-03-07,Online
+C0129,Samuel Eze,Retail,Abeokuta,Ogun,2024-11-12,Sales Rep
+C0130,Grace Bello,Retail,Ibadan,Oyo,2023-07-16,Online
+C0131,Ada Nwosu,Wholesale,Lekki,Lagos,2024-11-18,Online
+C0132,Zainab Adebayo,Wholesale,Abuja,FCT,2025-07-09,Phone
+C0133,Kunle Onyeka,Wholesale,Lekki,Lagos,2025-11-12,Online
+C0134,Tobi Akinyemi,Retail,Enugu,Enugu,2026-07-04,Online
+C0135,Femi Udo,Retail,Abuja,FCT,2023-02-16,Online
+C0136,Ada James,Corporate,Lekki,Lagos,2025-03-20,In-store
+C0137,David Akinyemi,Retail,Ibadan,Oyo,2024-05-19,Online
+C0138,Tunde Okafor,Online,Ilorin,Kwara,2025-12-27,Phone
+C0139,Chika Oladipo,Retail,Abuja,FCT,2024-02-11,Sales Rep
+C0140,Chinedu Onyeka,Wholesale,Lagos,Lagos,2025-08-09,Sales Rep
+C0141,Femi Yusuf,Wholesale,Ilorin,Kwara,2023-01-24,In-store
+C0142,Chinedu Eze,Retail,Uyo,Akwa Ibom,2025-10-19,Phone
+C0143,Grace Onyeka,Retail,Ilorin,Kwara,2025-07-23,Sales Rep
+C0144,Ada Eze,Wholesale,Lagos,Lagos,2023-03-03,Online
+C0145,Kemi Abubakar,Retail,Lagos,Lagos,2023-09-16,Online
+C0146,Chinedu Lawal,Retail,Lekki,Lagos,2023-11-09,Sales Rep
+C0147,Kemi Nwosu,Retail,Port Harcourt,Rivers,2023-01-30,In-store
+C0148,Grace Akinyemi,Online,Lekki,Lagos,2024-02-06,Phone
+C0149,Amaka Akinyemi,Retail,Ibadan,Oyo,2025-08-22,Online
+C0150,Chika Udo,Retail,Abeokuta,Ogun,2024-07-13,Sales Rep
+C0151,Maryam Nwosu,Online,Abeokuta,Ogun,2026-07-18,In-store
+C0152,Kunle Yusuf,Online,Enugu,Enugu,2026-04-28,Online
+C0153,Chinedu Udo,Retail,Benin City,Edo,2025-03-06,Online
+C0154,Kunle Lawal,Retail,Uyo,Akwa Ibom,2026-03-02,Phone
+C0155,Grace Eze,Retail,Benin City,Edo,2025-11-17,In-store
+C0156,Tunde Lawal,Online,Abuja,FCT,2024-10-13,Sales Rep
+C0157,Yusuf Adeyemi,Retail,Abuja,FCT,2025-03-10,Phone
+C0158,Damilola Lawal,Wholesale,Benin City,Edo,2023-07-30,Phone
+C0159,Hauwa Eze,Wholesale,Abuja,FCT,2023-02-06,In-store
+C0160,Amina Yusuf,Retail,Ibadan,Oyo,2023-10-03,In-store
+C0161,Tunde Oladipo,Wholesale,Kano,Kano,2024-12-15,Sales Rep
+C0162,Tunde Adebayo,Online,Lagos,Lagos,2024-03-16,Phone
+C0163,Ada Adeyemi,Wholesale,Lagos,Lagos,2023-02-14,In-store
+C0164,Amina Ogunleye,Retail,Lekki,Lagos,2025-03-13,Sales Rep
+C0165,Kemi Mohammed,Online,Kano,Kano,2023-10-31,Phone
+C0166,Amaka Eze,Retail,Ibadan,Oyo,2023-11-30,In-store
+C0167,Ngozi Ogunleye,Wholesale,Benin City,Edo,2026-06-07,Sales Rep
+C0168,Seyi Udo,Corporate,Ibadan,Oyo,2024-10-30,In-store
+C0169,Tunde Ojo,Retail,Kano,Kano,2025-08-21,In-store
+C0170,Chinedu Balogun,Wholesale,Kano,Kano,2026-05-29,Online
+C0171,Kemi Eze,Retail,Abeokuta,Ogun,2024-03-06,Sales Rep
+C0172,Tunde James,Retail,Lagos,Lagos,2024-03-22,Sales Rep
+C0173,Ada Nwosu,Retail,Kano,Kano,2023-03-20,Phone
+C0174,Grace Yusuf,Retail,Benin City,Edo,2024-03-20,Phone
+C0175,Femi Bello,Retail,Lagos,Lagos,2023-02-15,Phone
+C0176,Zainab Eze,Online,Lagos,Lagos,2024-06-26,In-store
+C0177,Ngozi Oladipo,Wholesale,Port Harcourt,Rivers,2025-11-29,Phone
+C0178,Daniel Nwosu,Retail,Port Harcourt,Rivers,2023-06-20,Online
+C0179,Ada Eze,Retail,Ikeja,Lagos,2023-08-18,In-store
+C0180,Amaka Adeyemi,Retail,Ikeja,Lagos,2024-08-25,Sales Rep
+C0181,Zainab Nwosu,Retail,Uyo,Akwa Ibom,2024-07-23,In-store
+C0182,Amaka Bello,Retail,Enugu,Enugu,2023-07-29,Online
+C0183,David Udo,Retail,Kano,Kano,2024-09-21,Phone
+C0184,Ada Obi,Retail,Ilorin,Kwara,2024-06-08,Online
+C0185,Maryam Ogunleye,Wholesale,Enugu,Enugu,2023-04-05,Sales Rep
+C0186,Grace Ogunleye,Retail,Ilorin,Kwara,2024-03-29,Online
+C0187,Chika Oladipo,Corporate,Lagos,Lagos,2026-05-23,Sales Rep
+C0188,Bola Udo,Retail,Kano,Kano,2024-12-16,Phone
+C0189,Ada Obi,Retail,Benin City,Edo,2024-09-25,Online
+C0190,Maryam Ojo,Retail,Abeokuta,Ogun,2023-10-08,Online
+C0191,Emeka Bello,Retail,Ibadan,Oyo,2024-03-16,Sales Rep
+C0192,Femi Bello,Retail,Ikeja,Lagos,2024-12-11,Phone
+C0193,Maryam Lawal,Wholesale,Uyo,Akwa Ibom,2024-06-14,Online
+C0194,Kemi Eze,Online,Port Harcourt,Rivers,2023-06-23,Online
+C0195,Yusuf Onyeka,Online,Lekki,Lagos,2023-09-27,Online
+C0196,David Lawal,Retail,Abeokuta,Ogun,2025-06-28,In-store
+C0197,Seyi Ojo,Retail,Port Harcourt,Rivers,2026-02-21,Phone
+C0198,Ifeoma Nwosu,Corporate,Ikeja,Lagos,2023-11-17,Phone
+C0199,Yusuf Bello,Online,Port Harcourt,Rivers,2026-05-23,In-store
+C0200,Emeka Nwosu,Retail,Ikeja,Lagos,2026-07-20,Phone
+C0201,Chinedu James,Retail,Kano,Kano,2023-08-27,Online
+C0202,Amaka Nwosu,Retail,Abuja,FCT,2024-01-24,Sales Rep
+C0203,Chinedu Balogun,Retail,Abuja,FCT,2026-05-23,Sales Rep
+C0204,Ifeoma Adeyemi,Wholesale,Ikeja,Lagos,2025-08-19,In-store
+C0205,Tunde Obi,Retail,Enugu,Enugu,2023-09-10,Phone
+C0206,Samuel Bello,Corporate,Ibadan,Oyo,2024-10-12,Online
+C0207,Daniel Ogunleye,Corporate,Port Harcourt,Rivers,2025-08-07,Online
+C0208,Amaka Ogunleye,Retail,Ilorin,Kwara,2023-04-18,Sales Rep
+C0209,Hauwa Abubakar,Corporate,Ikeja,Lagos,2024-08-04,Online
+C0210,David Onyeka,Retail,Uyo,Akwa Ibom,2024-07-09,Sales Rep
+C0211,Kemi Balogun,Retail,Lekki,Lagos,2026-01-28,Sales Rep
+C0212,Amaka Udo,Online,Benin City,Edo,2025-08-09,In-store
+C0213,Ifeoma Udo,Online,Port Harcourt,Rivers,2025-09-23,Phone
+C0214,Tobi Sule,Online,Lagos,Lagos,2023-02-22,In-store
+C0215,Yusuf Balogun,Retail,Lagos,Lagos,2024-08-12,Phone
+C0216,Femi Ibrahim,Retail,Ikeja,Lagos,2025-02-03,Phone
+C0217,Tobi Adeyemi,Online,Ilorin,Kwara,2023-04-28,Online
+C0218,Damilola Nwosu,Retail,Enugu,Enugu,2025-06-09,In-store
+C0219,Samuel James,Wholesale,Benin City,Edo,2024-07-16,Sales Rep
+C0220,Amina Ojo,Retail,Lekki,Lagos,2024-05-16,Sales Rep
+C0221,Yusuf Ibrahim,Online,Abuja,FCT,2025-01-13,Sales Rep
+C0222,David Adeyemi,Retail,Uyo,Akwa Ibom,2025-05-13,Phone
+C0223,Ngozi Balogun,Wholesale,Ikeja,Lagos,2023-10-25,In-store
+C0224,Chika Okonkwo,Retail,Ikeja,Lagos,2026-01-06,In-store
+C0225,David Nwosu,Retail,Ibadan,Oyo,2025-09-03,Phone
+C0226,Damilola Abubakar,Retail,Abeokuta,Ogun,2023-08-10,In-store
+C0227,Tobi Sule,Retail,Lekki,Lagos,2026-07-06,Phone
+C0228,Amaka Ibrahim,Wholesale,Abuja,FCT,2024-05-26,In-store
+C0229,Ada Ojo,Retail,Lagos,Lagos,2025-04-13,In-store
+C0230,Hauwa Lawal,Retail,Ilorin,Kwara,2025-04-16,Sales Rep
+C0231,Zainab Obi,Retail,Benin City,Edo,2024-04-28,Phone
+C0232,Chinedu Nwosu,Wholesale,Enugu,Enugu,2025-03-24,In-store
+C0233,Grace Onyeka,Online,Abeokuta,Ogun,2025-07-19,Online
+C0234,Chika Balogun,Retail,Port Harcourt,Rivers,2024-04-01,Online
+C0235,Yusuf Obi,Wholesale,Kano,Kano,2025-10-11,Sales Rep
+C0236,Damilola Sule,Retail,Ikeja,Lagos,2023-12-04,Sales Rep
+C0237,Damilola Ojo,Corporate,Lagos,Lagos,2025-02-22,Online
+C0238,Ifeoma Akinyemi,Retail,Abuja,FCT,2024-12-29,Sales Rep
+C0239,Daniel James,Retail,Ikeja,Lagos,2023-09-05,Online
+C0240,Samuel Yusuf,Retail,Ibadan,Oyo,2025-05-02,In-store

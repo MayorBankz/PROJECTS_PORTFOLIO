@@ -1,0 +1,25 @@
+staff_id,staff_name,role,store_id,hire_date
+STF001,Samuel Eze,Cashier,STR007,2024-09-15
+STF002,Tunde Oladipo,Store Supervisor,STR004,2025-11-17
+STF003,Maryam Okafor,Sales Rep,STR001,2025-08-17
+STF004,Hauwa Abubakar,Sales Rep,STR002,2022-01-17
+STF005,Damilola Onyeka,Store Supervisor,STR008,2025-10-15
+STF006,Chika James,Cashier,STR008,2024-09-06
+STF007,Grace Adebayo,Sales Rep,STR005,2023-01-20
+STF008,Chika Bello,Store Supervisor,STR007,2022-03-02
+STF009,Kunle Abubakar,Sales Associate,STR001,2025-07-31
+STF010,Tunde Mohammed,Cashier,STR005,2022-02-03
+STF011,Tobi Ibrahim,Sales Rep,STR002,2023-06-10
+STF012,Bola Okonkwo,Store Supervisor,STR003,2025-09-20
+STF013,Amaka Yusuf,Store Supervisor,STR003,2024-03-27
+STF014,Zainab Akinyemi,Store Supervisor,STR002,2024-10-05
+STF015,Maryam James,Store Supervisor,STR006,2021-01-05
+STF016,Ada Adeyemi,Sales Rep,STR003,2025-06-28
+STF017,Maryam Yusuf,Store Supervisor,STR004,2023-03-31
+STF018,Tobi Okafor,Sales Associate,STR007,2023-10-16
+STF019,Ngozi Akinyemi,Store Supervisor,STR001,2024-11-02
+STF020,Femi Bello,Cashier,STR007,2023-01-17
+STF021,Ifeoma Sule,Sales Rep,STR004,2024-05-25
+STF022,David Nwosu,Cashier,STR005,2022-12-15
+STF023,Kemi Balogun,Sales Rep,STR003,2025-05-18
+STF024,Samuel Adeyemi,Store Supervisor,STR001,2022-10-22

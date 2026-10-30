@@ -1,0 +1,19 @@
+supplier_id,supplier_name,supplier_region,payment_terms_days
+SUP001,Apex Consumer Goods,South West,30
+SUP002,BlueRiver Supplies,South West,7
+SUP003,Cedar Wholesale,North Central,14
+SUP004,Delta Merchants,South East,30
+SUP005,Evergreen Distributors,South West,45
+SUP006,Fairway Products,North Central,60
+SUP007,Golden Gate Trading,North West,14
+SUP008,Harbourline Imports,South West,30
+SUP009,Iconic Essentials,South West,45
+SUP010,Jade Retail Supply,North Central,14
+SUP011,Kingsway Partners,South West,7
+SUP012,Lighthouse Goods,South West,45
+SUP013,Metro Source,North West,60
+SUP014,Northstar Wholesale,North West,7
+SUP015,Oakfield Trading,South West,14
+SUP016,PrimeLink Supply,North Central,60
+SUP017,Quartz Distribution,North Central,14
+SUP018,Riverside Merchants,South East,60

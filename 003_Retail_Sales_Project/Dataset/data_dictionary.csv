@@ -1,0 +1,46 @@
+table_name,column_name,description,example_value,relationship
+customers,customer_id,Unique customer key,C0001,
+customers,customer_name,Synthetic customer name,Kemi Adebayo,
+customers,customer_type,Customer segment; one value has inconsistent casing/spacing,Wholesale,
+customers,city,Customer city; one value intentionally missing,Ilorin,
+customers,state,Customer state,Kwara,
+customers,signup_date,Registration date,2025-05-06,
+customers,preferred_channel,Preferred channel,In-store,
+categories,category_id,Unique category key,CAT01,
+categories,category_name,Product category,Beverages,
+products,product_id,Unique product key,P0001,
+products,product_name,Product name; one value has surrounding spaces,Bottled Water 75cl,
+products,category_id,Category foreign key,CAT01,categories.category_id
+products,supplier_id,Supplier foreign key,SUP018,suppliers.supplier_id
+products,unit_price,Reference catalogue price in NGN,250,
+products,unit_cost,Reference unit cost in NGN,140,
+products,reorder_level,Suggested minimum stock threshold,10,
+suppliers,supplier_id,Unique supplier key,SUP001,
+suppliers,supplier_name,Synthetic supplier name,Apex Consumer Goods,
+suppliers,supplier_region,Supplier region,South West,
+suppliers,payment_terms_days,Payment terms in days,30,
+stores,store_id,Unique store key,STR001,
+stores,store_name,Store name; one value has trailing space,Ikeja Central,
+stores,city,Store city,Ikeja,
+stores,state,Store state,Lagos,
+stores,store_type,Store format,Flagship,
+stores,opening_date,Store opening date,2021-03-15,
+staff,staff_id,Unique staff key,STF001,
+staff,staff_name,Synthetic staff name,Samuel Eze,
+staff,role,Staff role,Cashier,
+staff,store_id,Assigned store foreign key,STR007,stores.store_id
+staff,hire_date,Hire date,2024-09-15,
+orders,order_id,Unique order header key,ORD000001,
+orders,order_date,Order date,2026-05-05,
+orders,customer_id,Customer foreign key,C0201,customers.customer_id
+orders,store_id,Store foreign key,STR003,stores.store_id
+orders,staff_id,Staff foreign key,STF013,staff.staff_id
+orders,sales_channel,Sales channel,In-store,
+orders,payment_method,Payment method,USSD,
+orders,order_status,"Completed, Cancelled, or Returned",Completed,
+order_items,order_id,Order header foreign key,ORD000001,orders.order_id
+order_items,line_number,Line number within order,1,
+order_items,product_id,Product foreign key,P0041,products.product_id
+order_items,quantity,Units on line; includes a few invalid values,4,
+order_items,unit_price,Actual line selling price in NGN; some missing values and valid price variations,4200.0,
+order_items,discount_pct,"Discount fraction; 0.10 means 10%, with a few missing/invalid values",0.0,
